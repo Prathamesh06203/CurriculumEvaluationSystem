@@ -1,0 +1,44 @@
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.Form1.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmStudent.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.Resources.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.vbproj.GenerateResource.Cache
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\bin\Debug\CurriculumEvaluationSystem.exe
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\bin\Debug\CurriculumEvaluationSystem.pdb
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\bin\Debug\CurriculumEvaluationSystem.xml
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.exe
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.xml
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.pdb
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmCourse.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmSubjects.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmListSubject.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmViewCurriculum.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmSearchGrade.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.LoginForm1.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmUser.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmReport.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmAddingGrades.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmPrintGrades.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmSearchStudents.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.exe
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.xml
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.pdb
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.Form1.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmCourse.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmListSubject.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmReport.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmStudent.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmSubjects.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmUser.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmViewCurriculum.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.LoginForm1.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmAddingGrades.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmPrintGrades.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmSearchGrade.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.frmSearchStudents.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.Resources.resources
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\obj\Debug\CurriculumEvaluationSystem.vbproj.GenerateResource.Cache
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\bin\Debug\CurriculumEvaluationSystem.exe
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\bin\Debug\CurriculumEvaluationSystem.pdb
+D:\Jano's thesis Programs\Manila Thesis\CurriculumEvaluationSystem\CurriculumEvaluationSystem\bin\Debug\CurriculumEvaluationSystem.xml
